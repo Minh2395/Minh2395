@@ -21,7 +21,7 @@ I'm always open to experimenting with new tools and finding better ways to build
 
 - **GitHub:** [@Minh2395](https://github.com/Minh2395)
 - **Email:** vongominh2395@example.com
-- **LinkedIn:** [Connect with me]([https://www.linkedin.com/](https://www.linkedin.com/in/vongominh/))
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/vongominh/)
 
 Feel free to explore my repositories, share ideas, or just say hi! Always happy to connect with fellow developers. 🤝
 
