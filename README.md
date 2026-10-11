@@ -6,7 +6,7 @@ I'm **Minh2395** 🇻🇳, a Software Engineering student who enjoys turning ide
 
 I'm currently improving my full-stack development skills and working on personal and academic projects. My favorite project is **Lyys Store**, an e-commerce website where I get to experiment with modern web technologies and put what I've learned into practice. I'm also exploring network automation, SDN, and other areas of software engineering.
 
-## 🛠️ What tools do I use?
+## What tools do I use? 🛠️
 
 - **Languages:** TypeScript, JavaScript, Python, C#, Java, Dart
 - **Frontend:** React, Next.js, Expo, HTML, CSS, Tailwind CSS, Flutter
