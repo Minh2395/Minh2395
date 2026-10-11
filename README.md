@@ -8,10 +8,10 @@ I'm currently improving my full-stack development skills and working on personal
 
 ## 🛠️ What tools do I use?
 
-- **Languages:** TypeScript, JavaScript, Python, C#, Java
-- **Frontend:** React, Next.js, Expo, HTML, CSS, Tailwind CSS
+- **Languages:** TypeScript, JavaScript, Python, C#, Java, Dart
+- **Frontend:** React, Next.js, Expo, HTML, CSS, Tailwind CSS, Flutter
 - **Backend:** Node.js, Django, FastAPI, JWT, NestJS
-- **Database:** MySQL, SQL Server, PostgreSQL, MongoDB
+- **Database:** MySQL, SQL Server, PostgreSQL, MongoDB, OracleDB
 - **DevOps & Tools:** Docker, Figma, Git, Github, Render, Vercel, Android Studio, Google AI Studio, Postman, Linux
 - **AI & Automation:** n8n AI Agentic Workflows 
 
